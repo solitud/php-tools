@@ -10,12 +10,6 @@
             "email": "mirko.pagliai@gmail.com"
         }
     ],
-    "repositories": [
-        {
-            "url": "https://github.com/solitud/phpuri.git",
-            "type": "git"
-        }
-    ],
     "require": {
         "php": ">=5.6 <8",
         "xsirix/phpuri": "^1",
